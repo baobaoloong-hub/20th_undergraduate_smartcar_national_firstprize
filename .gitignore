@@ -1,0 +1,26 @@
+# IAR 编译产物
+settings/
+Debug/
+Release/
+Exe/
+Listings/
+Obj/
+*.o
+*.d
+*.dep
+*.pbd
+*.pbi
+*.map
+*.hex
+*.out
+*.bin
+*.srec
+*.lst
+*.crf
+*.dni
+*.ewt
+*.bak
+
+# 编辑器
+.vscode/
+*.suo
